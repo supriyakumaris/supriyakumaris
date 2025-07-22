@@ -60,8 +60,7 @@
 
 - 📘 **Cloud Computing** – NPTEL  
 - 📊 **Data Analysis with Tableau** – Coursera  
-- 🔍 **Data Science using R** – Coursera  
-- 📈 **Excel for Business** – Coursera  
+- 🔍 **Data Science using R** – Coursera   
 - 🧠 **High Performance Skills** – LinkedIn Learning  
 - ⚙️ **DSA with C & C++** – Udemy, Board Infinity  
 
