@@ -53,7 +53,7 @@
 | 🧠 **Heart Disease Prediction Model** | R, ML, Random Forest | Predictive analytics model with high accuracy, deployed using R Shiny |
 | 📊 **Customer Analysis Dashboard** | Tableau, SQL, Excel | Visual insights from superstore data, helping identify key business drivers |
 | 🎮 **Snake Game** | Core Java, Swing | Desktop application built using Java OOP concepts |
-| 💔 **Breakup Recovery Journal App** | Java, SQLite | Emotionally intelligent journaling app for wellness & personal reflection |
+| 💔 **Breakup Recovery Journal App** | Java, SQLite  | Emotionally intelligent journaling app for wellness & personal reflection |
 
 ---
 
